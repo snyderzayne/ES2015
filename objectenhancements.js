@@ -11,7 +11,7 @@ let instructor = {
   [favoriteNumber]: "That is my favorite!"
 }
 
-instructor[favoriteNumber] = "That is my favorite!"
+// instructor[favoriteNumber] = "That is my favorite!"
 
 var instructor = {
     firstName: "Colt",
